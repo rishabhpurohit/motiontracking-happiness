@@ -1,3 +1,3 @@
 # motiontracking-happiness
 
-This repo has jupyter notebooks for some types of tracking used in Computer Vision.
+This repo has jupyter notebooks for various types of object tracking used in Computer Vision.
